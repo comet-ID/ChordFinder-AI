@@ -1,0 +1,5 @@
+{
+  "name": "ChordFinder AI",
+  "description": "An AI-powered guitar chord web application that finds and displays chords for any song. Features include chord transposition, auto-scrolling, and interactive chord diagrams.",
+  "requestFramePermissions": []
+}
